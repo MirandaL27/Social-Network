@@ -18,7 +18,7 @@ The purpose of this project was to create a collection of mongoose models and ro
 * Mongoose
 
 # Walkthrough video
-* [gif of routes working in insomnia](hw18_walkthrough_video.gif)
+* [gif of routes working in insomnia](hw18_walkthough_video.gif)
 
 
 # Credits
